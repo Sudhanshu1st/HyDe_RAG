@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+pypdf
+huggingface_hub
+python-dotenv
+numpy<2.0
+pyarrow<14.0
