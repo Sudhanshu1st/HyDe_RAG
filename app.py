@@ -10,8 +10,10 @@ from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
 
 # --- API Configuration ---
-# REPLACE THIS WITH YOUR ACTUAL API KEY
-YOUR_API_KEY_HERE_key = "YOUR_API_KEY_HERE"
+# Load API key from environment variable
+YOUR_API_KEY_HERE_key = os.getenv("HF_API_KEY", "")
+if not YOUR_API_KEY_HERE_key:
+    st.error("❌ Hugging Face API key not found. Please set HF_API_KEY environment variable.")
 
 # --- Page Configuration ---
 st.set_page_config(
