@@ -234,12 +234,3 @@ This project is licensed under the **MIT License**.
 
 See the `LICENSE` file for details.
 
----
-
-✅ If you want, I can also help you add **3 things that make GitHub repos look very professional**:
-
-* **Architecture diagram**
-* **RAG pipeline diagram**
-* **GIF demo of the Streamlit app**
-
-These dramatically increase the **impact of a portfolio project**, especially for **ML / Data Science job applications**.
