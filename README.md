@@ -28,6 +28,7 @@ The system is built entirely with **open-source models via Hugging Face APIs**, 
 ---
 
 # 🚀 Key Features
+<img width="1536" height="1024" alt="diagram" src="https://github.com/user-attachments/assets/97c7f7eb-f241-4ea2-a9bd-ff813d04fab0" />
 
 ### 🔹 HyDe Retrieval Mechanism
 
